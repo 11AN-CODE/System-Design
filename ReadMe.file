@@ -1,7 +1,9 @@
 # System Design
+
 System Design is the process of designing the architecture, components, and interfaces for a system so that it meets the end-user requirements. 
 
 ## Importance of System Design
+
 System design is important for anyone who wants to build a robust, scalable, and efficient software application. Whether you are building a small-scale application or a large one, understanding system design allows you to architect solutions that can handle real-world complexities.
 
 Scalability and Reliability: System design ensures systems can grow and handle increased demand without failure.
@@ -16,5 +18,7 @@ Interview Preparation: Mastering system design is key to excelling in system des
 
 
 ## Core Components
+
 HLD-High Level Design
+
 ** initial step in the development of applications where the overall structure of a system is planned.
