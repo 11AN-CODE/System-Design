@@ -28,4 +28,5 @@ Because of its rigidity, it is difficult to scale and maintain, which makes it d
 ![Uploading image.png…]()
 
 ## Importance of Monolithic Systems
+Single Codebase: All components are developed and maintained in one codebase, simplifying management.
 
