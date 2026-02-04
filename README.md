@@ -27,3 +27,5 @@ Because of its rigidity, it is difficult to scale and maintain, which makes it d
 
 ![Uploading image.png…]()
 
+## Importance of Monolithic Systems
+
