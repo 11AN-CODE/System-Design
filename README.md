@@ -24,3 +24,6 @@ A traditional approach in system design, which contains all application componen
 It was preferred for its simplicity and ease of initial setup.
 In contrast, alternative architectural approaches, like microservices, divide the application into smaller, separately deployable services.
 Because of its rigidity, it is difficult to scale and maintain, which makes it difficult to adjust to changing needs.
+
+![Uploading image.png…]()
+
