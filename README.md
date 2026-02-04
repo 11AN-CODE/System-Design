@@ -14,3 +14,8 @@ System design is important for anyone who wants to build a robust, scalable, and
 
 ### HLD (High Level Design)
 **Initial step** in the development of applications where the overall structure of a system is planned.
+
+
+
+# Monolithic Architecture - System Design
+Monolithic architecture is a software design methodology that combines all of an application's components into a single, inseparable unit. Under this architecture, the user interface, business logic, and data access layers are all created, put into use, and maintained as one, unified unit.
