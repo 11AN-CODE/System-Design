@@ -19,3 +19,8 @@ System design is important for anyone who wants to build a robust, scalable, and
 
 # Monolithic Architecture - System Design
 Monolithic architecture is a software design methodology that combines all of an application's components into a single, inseparable unit. Under this architecture, the user interface, business logic, and data access layers are all created, put into use, and maintained as one, unified unit.
+
+A traditional approach in system design, which contains all application components into a single codebase.
+It was preferred for its simplicity and ease of initial setup.
+In contrast, alternative architectural approaches, like microservices, divide the application into smaller, separately deployable services.
+Because of its rigidity, it is difficult to scale and maintain, which makes it difficult to adjust to changing needs.
