@@ -30,3 +30,34 @@ Because of its rigidity, it is difficult to scale and maintain, which makes it d
 ## Importance of Monolithic Systems
 Single Codebase: All components are developed and maintained in one codebase, simplifying management.
 
+
+
+
+
+
+## What is server?
+-> Where we host our site or deploy our projects.
+-> Server has its own IP Address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
