@@ -36,15 +36,25 @@ Single Codebase: All components are developed and maintained in one codebase, si
 
 
 ## What is server?
+<br>
 -> Where we host our site or deploy our projects.
+<br>
 -> Server has its own IP Address
 
 ## DNS <img width="40" height="35" alt="image" src="https://github.com/user-attachments/assets/2fdf0dd8-c47b-460d-8ea7-62d8486600e6" />
 
 
 -> The Domain Name System (DNS) is often referred to as the "phonebook of the Internet". 
+<br>
 -> It is a hierarchical, distributed database that translates human-readable domain names (e.g., www.google.com) into numerical IP addresses (e.g., 192.0.2.1) that computers use to identify each other on the network. 
+<br>
 -> Allows humans to use memorable names to access websites instead of memorizing complex numeric IP addresses.
+
+# Server Down Problem
+<br>
+A "server down" problem occurs when a website or online service becomes inaccessible, slow, or completely non-functional. In technical terms, it means the server—the computer storing the website's data—is not responding to user requests. 
+<br>
+When a website goes down, visitors might see errors like "503 Service Unavailable," "Database Connection Error," or a simple "Site Cannot Be Reached" message. 
 
 
 
