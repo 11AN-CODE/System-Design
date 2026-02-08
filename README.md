@@ -39,7 +39,8 @@ Single Codebase: All components are developed and maintained in one codebase, si
 -> Where we host our site or deploy our projects.
 -> Server has its own IP Address
 
-## DNS ![Uploading image.png…]()
+## DNS <img width="60" height="65" alt="image" src="https://github.com/user-attachments/assets/2fdf0dd8-c47b-460d-8ea7-62d8486600e6" />
+
 
 -> The Domain Name System (DNS) is often referred to as the "phonebook of the Internet". 
 -> It is a hierarchical, distributed database that translates human-readable domain names (e.g., www.google.com) into numerical IP addresses (e.g., 192.0.2.1) that computers use to identify each other on the network. 
