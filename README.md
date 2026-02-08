@@ -57,16 +57,26 @@ Single Codebase: All components are developed and maintained in one codebase, si
 -> A "server down" problem occurs when a website or online service becomes inaccessible, slow, or completely non-functional. In technical terms, it means the server—the computer storing the website's data—is not responding to user requests. 
 <br>
 -> When a website goes down, visitors might see errors like "503 Service Unavailable," "Database Connection Error," or a simple "Site Cannot Be Reached" message. 
-
+<br>
 <br>
 ## The "Result Day" Scenario: An Example of Server Overload
 <br>
-Imagine a popular Board Exam (like CBSE) is releasing results for 1 million students at 12:00 PM.<br>
+Imagine a popular Board Exam (like CBSE) is releasing results for 1 million students at 12:00 PM.
+<br>
+Limited Resources (The "Store" Capacity): The education board’s website operates on a set of servers (hardware) with limited processing power (CPU), memory (RAM), and network capacity. 
+This is like a small corner shop designed to serve 100 people a day.<br>
 
-Limited Resources (The "Store" Capacity): The education board’s website operates on a set of servers (hardware) with limited processing power (CPU), memory (RAM), and network capacity. This is like a small corner shop designed to serve 100 people a day.<br>
-Lot of User Requests (The "Rush"): At 12:00 PM, 500,000 students, parents, and teachers try to log in simultaneously. <br>Millions of requests hit the database to retrieve individual results.<br>
-The Crash (The "Congestion"): The server tries to handle all requests at once. <br>It runs out of RAM and CPU power, slowing down to a halt or shutting down to prevent damage.<br>
-Result: The website crashes. Students see error screens or just a loading wheel. <br>It is, as one expert described, "like forcing a stadium's crowd through a single exit". <br>
+Lot of User Requests (The "Rush"): At 12:00 PM, 500,000 students, parents, and teachers try to log in simultaneously.
+
+<br>Millions of requests hit the database to retrieve individual results.<br>
+
+The Crash (The "Congestion"): The server tries to handle all requests at once.
+
+<br>It runs out of RAM and CPU power, slowing down to a halt or shutting down to prevent damage.<br>
+
+Result: The website crashes. Students see error screens or just a loading wheel. 
+
+<br>It is, as one expert described, "like forcing a stadium's crowd through a single exit". <br>
 
 
 
