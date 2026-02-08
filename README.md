@@ -39,7 +39,7 @@ Single Codebase: All components are developed and maintained in one codebase, si
 -> Where we host our site or deploy our projects.
 -> Server has its own IP Address
 
-## DNS <img width="60" height="65" alt="image" src="https://github.com/user-attachments/assets/2fdf0dd8-c47b-460d-8ea7-62d8486600e6" />
+## DNS <img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/2fdf0dd8-c47b-460d-8ea7-62d8486600e6" />
 
 
 -> The Domain Name System (DNS) is often referred to as the "phonebook of the Internet". 
