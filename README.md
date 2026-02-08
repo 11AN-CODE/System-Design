@@ -25,7 +25,7 @@ It was preferred for its simplicity and ease of initial setup.
 In contrast, alternative architectural approaches, like microservices, divide the application into smaller, separately deployable services.
 Because of its rigidity, it is difficult to scale and maintain, which makes it difficult to adjust to changing needs.
 
-![Uploading image.png…]()
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/440a7bb7-0058-47fe-aa74-d059ceb8511b" />
 
 ## Importance of Monolithic Systems
 Single Codebase: All components are developed and maintained in one codebase, simplifying management.
@@ -39,6 +39,11 @@ Single Codebase: All components are developed and maintained in one codebase, si
 -> Where we host our site or deploy our projects.
 -> Server has its own IP Address
 
+## DNS ![Uploading image.png…]()
+
+-> The Domain Name System (DNS) is often referred to as the "phonebook of the Internet". 
+-> It is a hierarchical, distributed database that translates human-readable domain names (e.g., www.google.com) into numerical IP addresses (e.g., 192.0.2.1) that computers use to identify each other on the network. 
+-> Allows humans to use memorable names to access websites instead of memorizing complex numeric IP addresses.
 
 
 
