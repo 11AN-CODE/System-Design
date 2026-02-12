@@ -81,9 +81,19 @@ Result: The website crashes. Students see error screens or just a loading wheel.
 
 So , in this we can do that either go for <br>
 
-1-Horizontal Scaling 
+1-Horizontal Scaling <br>
 2-Vertical Scaling
 
+<img width="587" height="336" alt="image" src="https://github.com/user-attachments/assets/4e4c6f90-0abd-4c75-b887-7e86728d07cf" />
+
+
+Horizontal Scaling<br>
+
+Horizontal scaling (scaling out) increases system capacity by adding more machines to a network, offering high, near-limitless scalability, better fault tolerance, and no downtime. 
+
+Vertical scaling <br>
+
+Vertical scaling (scaling up) upgrades an existing server's resources—CPU, RAM, or storage—providing simpler management but limited capacity and potential downtime. 
 
 
 
