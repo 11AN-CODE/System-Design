@@ -79,7 +79,10 @@ Result: The website crashes. Students see error screens or just a loading wheel.
 <br>It is, as one expert described, "like forcing a stadium's crowd through a single exit". <br>
 
 
+So , in this we can do that either go for <br>
 
+1-Horizontal Scaling 
+2-Vertical Scaling
 
 
 
