@@ -108,7 +108,7 @@ Data Consistency & Synchronization: Ensuring all nodes have identical, updated d
 <br>
 Elastic Load Balancers (ELBs) solve this by acting as a central, intelligent traffic router that distributes requests evenly across healthy servers, detects node failures, and automates scaling, ensuring high availability and seamless performance. <br>
 
-<img width="618" height="578" alt="image" src="https://github.com/user-attachments/assets/7246237d-34aa-407a-baee-d7669c1a8cbb" />
+<img width="587" height="336" alt="image" src="https://github.com/user-attachments/assets/7246237d-34aa-407a-baee-d7669c1a8cbb" />
 
 
 Traffic Distribution: ELB acts as a single point of entry, routing requests to the least busy server to prevent bottlenecks.<br>
@@ -123,7 +123,7 @@ High Availability: ELB can distribute traffic across multiple availability zones
 
 ##  ALGORITHM USED IN ELB-Round-Robin 
 <br>
-<img width="1140" height="766" alt="image" src="https://github.com/user-attachments/assets/bdba5c30-d878-49ac-bc91-7316fab23748" />
+<img width="587" height="336" alt="image" src="https://github.com/user-attachments/assets/bdba5c30-d878-49ac-bc91-7316fab23748" />
 
 <br>
 This is a static algorithm that routes incoming requests to targets in a sequential, rotational order. Each healthy target receives an equal share of requests, without considering the current load or number of active connections on each server. This method is simple and commonly used for stateless applications where request processing times are relatively equal across all targets.
