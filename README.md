@@ -95,6 +95,20 @@ Vertical scaling <br>
 
 Vertical scaling (scaling up) upgrades an existing server's resources—CPU, RAM, or storage—providing simpler management but limited capacity and potential downtime. 
 
+##  Problem in Horizontal Scaling <br>
+
+Complexity & Management: Managing multiple instances increases operational overhead, making monitoring and orchestration more difficult than a single, large machine.<br>
+
+Data Consistency & Synchronization: Ensuring all nodes have identical, updated data is difficult. Without proper replication, this leads to data corruption or conflicting information.<br>
+
+
+## How to resolve this:-<br>
+
+# ELB-Elastic Load Balncer
+<br>
+Elastic Load Balancers (ELBs) solve this by acting as a central, intelligent traffic router that distributes requests evenly across healthy servers, detects node failures, and automates scaling, ensuring high availability and seamless performance. <br>
+
+
 
 
 
